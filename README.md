@@ -1,5 +1,7 @@
 # stock-trader
 
+![](stockTrader.gif)
+
 ## Project setup
 ```
 npm install
